@@ -1,0 +1,22 @@
+{
+  "name": "vladkrs-validator",
+  "version": "1.1.0",
+  "description": "My first Validation Library",
+  "main": "library-of-validation.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VladislavKrs/library-validations.git"
+  },
+  "keywords": [
+    "Validation"
+  ],
+  "author": "VladKrs",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VladislavKrs/library-validations/issues"
+  },
+  "homepage": "https://github.com/VladislavKrs/library-validations#readme"
+}
